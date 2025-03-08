@@ -26,7 +26,8 @@ Features:
     FontAwesome Icons 🎭
 
 Folder Structure
-    📂 
+
+    📂
     ShutterBud-Portfolio/
     │── index.html          # Main HTML file
     │── Assets/            # Images, videos, fonts
