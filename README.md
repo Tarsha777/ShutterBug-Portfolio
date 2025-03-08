@@ -10,11 +10,17 @@ ShutterBug Portfolio is a beautifully designed personal portfolio website for ph
 
 
 Features:
+
 ✅ Stunning gallery section 📷
+
 ✅ Responsive & mobile-friendly 📱
+
 ✅ Smooth animations & transitions 🎨
+
 ✅ Easy to customize ✏️
+
 ✅ Contact form for inquiries 📩
+
 
 
 
