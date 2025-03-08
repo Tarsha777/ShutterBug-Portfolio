@@ -37,6 +37,7 @@ Folder Structure
 
 
 🚀 How to Use
+
 1️⃣ Clone the repository:  git clone https://github.com/Tarsha777/ShutterBud-Portfolio.git
 
 2️⃣ Open index.html in your browser.
@@ -46,8 +47,12 @@ Folder Structure
 
 
 📧 Contact
+
 💡 Have suggestions or feedback? Reach out to me!
+
 📬 Email: [ptst2005@gmail.com]
+
 🔗 Portfolio: [coming soom]
+
 
 🌟 If you like this project, give it a star ⭐ on GitHub!
